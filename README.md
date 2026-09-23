@@ -146,7 +146,6 @@ A set of Python tools I built for turning long-form video into short-form conten
 | [**Transcription**](https://github.com/sahil-baligar/Transcription) | A modular feature-extraction pipeline: transcripts, loudness, silence, speech rate, pitch, overtalk, and face presence, all time-aligned for highlight scoring. | `Python` `OpenAI` `FFmpeg` `OpenCV` |
 | [**Dynamic-Facial-Framing**](https://github.com/sahil-baligar/Dynamic-Facial-Framing) | Converts horizontal video to 9:16 with **face tracking** and smoothed dynamic crops, plus blur, gameplay, and cover layouts. | `Python` `MediaPipe` `OpenCV` `FFmpeg` |
 | [**AutoCaptions**](https://github.com/sahilbaligar0407/AutoCaptions) | Progressive 1–3 word captions with rate-aware chunking and dynamic "wow word" styling. Reads SRT, VTT, and ASS files. | `Python` `MoviePy` |
-| [**AutoCaptionsDetailed**](https://github.com/sahil-baligar/AutoCaptionsDetailed) | Extends AutoCaptions with style presets (MrBeast, neon, karaoke, boxed) and **occlusion-aware placement** that keeps captions off faces. | `Python` `MediaPipe` `OpenCV` `MoviePy` |
 
 <!-- ============================ EXPERIENCE ============================ -->
 ## 💼 Experience
