@@ -23,7 +23,7 @@
 ```typescript
 const sahil = {
   role: "Full-Stack Developer & ML Engineer",
-  education: "B.S. Computer Science @ Purdue University (Dec 2027)",
+  education: "B.S. Computer Science @ Purdue University (Winter 2027)",
   shipping: ["GetUrSeat.com", "RRender.ai", "GuardCMD.ai"],
   experience: ["FedEx", "Sedgwick", "John Deere", "Roar Labs"],
   stack: {
@@ -36,7 +36,7 @@ const sahil = {
 };
 ```
 
-- 🎓 **Computer Science @ Purdue University**, graduating **Dec 2027** (Dean's List & Semester Honors).
+- 🎓 **Computer Science @ Purdue University**, graduating **Winter 2027** (Dean's List & Semester Honors).
 - 🚀 I build and run **three live products**: [**GetUrSeat**](https://geturseat.com) (booking), [**RRender.ai**](https://www.rrender.ai) (AI creative generation), and [**GuardCMD**](https://guardcmd.ai) (abuse protection for apps & AI agents).
 - 🤖 I work across **AI/ML & data science**: forecasting models, agentic AI (Gemini + Vertex AI), self-hosted SLMs, and computer-vision video pipelines.
 - 🧪 I care about **quality**: typed code, component-driven UI, and automated testing (Vitest, Playwright).
